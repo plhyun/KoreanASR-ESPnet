@@ -1,4 +1,4 @@
-# koreanASR-ESPnet
+# KoreanASR-ESPnet
 학습이 끝난 모델을 새로운 단일 입력을 이용하여 predict 하는 코드입니다.
 recog_wav.sh 는 터미널에서 예측하고 싶은 wav 파일의 경로를 입력하여 해당 음성의 발화를 예측하여 표시합니다.
 
